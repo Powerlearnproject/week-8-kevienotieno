@@ -1,52 +1,50 @@
-# Solving an SDG Problem with Data (Choose Your SDG)
 
-## Overview
-Select a Sustainable Development Goal (SDG) that resonates with you and develop a data-driven solution to address a specific problem within that SDG. Design a database, perform data analysis, and use Microsoft Excel as the user interface.
+# **Transforming Lives Through Sweet Potato Farming in Migori, Kenya**
+**A Data-Driven Approach to Solving Hunger**
 
-## Objectives
-- Choose an SDG and identify a specific problem to address.
-- Design and implement a relational database relevant to your chosen problem.
-- Write SQL queries to retrieve and analyze data.
-- Use Microsoft Excel for data visualization and analysis.
+---
 
-## Requirements
+## **Table of Contents**
+1. [**Project Overview**](#project-overview)
+2. [**Installation**](#installation)
+3. [**Technologies Used**](#technologies-used)
+4. [**Project Structure**](#project-structure)
+5. [**Database Design**](#database-design)
+6. [**SQL Queries**](#sql-queries)
+7. [**Excel Dashboard**](#excel-dashboard)
+8. [**Usage**](#usage)
+9. [**Future Improvements**](#future-improvements)
+10. [**Contributing**](#contributing)
+11. [**License**](#license)
 
-### Part 1: SDG Selection and Problem Definition
-- **SDG Selection:** Choose an SDG (e.g., SDG 3: Good Health, SDG 7: Affordable and Clean Energy).
-- **Problem Definition:** Define a specific problem within your chosen SDG that can be addressed using data.
+---
 
-### Part 2: Database Design
-- **ERD:** Design an ERD for your project, including entities relevant to your SDG problem.
-- **Schema:** Write SQL statements to create the database schema based on your ERD.
-- **Sample Data:** Populate the database with relevant sample data.
+## **Project Overview**
+This project tackles **hunger and food insecurity** in **Migori, Kenya**, through the optimization of **sweet potato farming**. By utilizing data on farming activities, crop yields, sales, and distribution, the project assists farmers in making informed decisions to **increase yields**, **reduce waste**, and **boost sales**. It aligns with **SDG 2: Zero Hunger**.
 
-### Part 3: SQL Programming
-- **Data Retrieval:** Write SQL queries to retrieve relevant data based on your problem definition.
-- **Data Analysis:** Write SQL queries to analyze data and generate insights related to your SDG problem.
+### **Key Components**
+- **Database Design**: Tracks farming data such as farmers, crops, harvests, sales, and distribution.
+- **SQL Analysis**: Runs queries to generate insights from the data.
+- **Excel Dashboard**: Visualizes critical metrics, including crop yields and sales revenue.
 
-### Part 4: Data Analysis Using Excel
-- **Import Data:** Import data from your database into Excel.
-- **Analysis:** Analyze the data using pivot tables, charts, and other Excel tools.
-- **Dashboard:** Create an interactive Excel dashboard to visualize key insights.
+---
 
-### Part 5: Integration and Testing
-- **Integration:** Document the process of importing data into Excel and ensuring consistency.
-- **Testing:** Test the integration and functionality of your Excel dashboard.
+## **Installation**
 
-### Part 6: Presentation
-- **Pitch Deck:** Develop a 10-slide PowerPoint presentation as taught in the entrepreneurship module covering:
-  - Project overview and SDG alignment.
-  - Problem definition and significance.
-  - Database design and schema.
-  - Data analysis insights.
-  - Excel dashboard demonstration.
-- **Delivery:** Present your pitch deck, demonstrating how your project addresses the SDG problem.
+### **Prerequisites**
+Ensure the following software is installed:
+- **Python 3.x**
+- **MySQL Workbench**
+- **Excel**
+- **Required Python Libraries** (listed in `requirements.txt`)
+---
 
-## Deliverables (upload onto this repo)
-- SDG problem definition document
-- ERD
-- SQL scripts
-- Excel workbook with data analysis and dashboard
-- Integration documentation
-- Pitch deck presentation (Provide the link e.g Canva or Gamma in your documentation)
+## **Contributing**
+We welcome contributions from the community! Feel free to fork the repository, make updates, and submit pull requests.
 
+---
+
+## **License**
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
