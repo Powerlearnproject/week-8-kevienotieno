@@ -3,19 +3,14 @@
 **A Data-Driven Approach to Solving Hunger**
 
 ---
+## **Note**
+ - Incase the .xlsx file is not opening with the visualizations you can access the google sheet here: https://docs.google.com/spreadsheets/d/1C74pvgNjRFkf9Cu9ItbXRR5Ck4974aApVMpMen8vol4/edit?usp=sharing
 
 ## **Table of Contents**
 1. [**Project Overview**](#project-overview)
 2. [**Installation**](#installation)
-3. [**Technologies Used**](#technologies-used)
-4. [**Project Structure**](#project-structure)
-5. [**Database Design**](#database-design)
-6. [**SQL Queries**](#sql-queries)
-7. [**Excel Dashboard**](#excel-dashboard)
-8. [**Usage**](#usage)
-9. [**Future Improvements**](#future-improvements)
-10. [**Contributing**](#contributing)
-11. [**License**](#license)
+3. [**Contributing**](#contributing)
+4. [**License**](#license)
 
 ---
 
